@@ -14,12 +14,12 @@ header {
     background: linear-gradient(135deg, #ff7e5f, #feb47b);
     color: white;
     text-align: center;
-    padding: 3em 1em;
+    padding: 10px 10px;
     font-size: 1.5em;
 }
 
 nav {
-    background: #222;
+    background: #0f1056;
     display: flex;
     justify-content: center;
     padding: 1em 0;
@@ -56,10 +56,10 @@ main {
 }
 
 footer {
-    background: #222;
+    background: #0f1056;
     color: white;
     text-align: center;
-    padding: 2em 0;
+    padding: 5px;
     font-size: 0.9em;
     position: fixed;
     width: 100%;
